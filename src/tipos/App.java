@@ -1,4 +1,4 @@
-package tipos;
+package Tipos;
 
 import java.util.Scanner;
 

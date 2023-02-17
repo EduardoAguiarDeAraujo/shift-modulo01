@@ -1,4 +1,4 @@
-package tipos;
+package Tipos;
 
 public class Atribuicao {
 	
