@@ -7,7 +7,7 @@ public class NomeValido {
 		String string = "FIAP";
 	//	String int = "FIAP"; //int é um tipo primitivo do java
 		
-		
+		System.out.println(string);
 
 	}
 
