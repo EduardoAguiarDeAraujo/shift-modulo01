@@ -1,4 +1,4 @@
-package tipos;
+package Desafios;
 
 import java.util.Random;
 import java.util.Scanner;
