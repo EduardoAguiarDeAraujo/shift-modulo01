@@ -10,10 +10,10 @@ public class DesafioMultaDeTransito {
 		
 		Scanner leitor = new Scanner(System.in);
 		
-		System.out.println("Informe a velocidade máxima permitida para a via: ");
+		System.out.println("Informe a velocidade maxima permitida para a via: ");
 		via = leitor.nextFloat();
 		
-		System.out.println("Informe a velocidade do veículo: ");
+		System.out.println("Informe a velocidade do veiculo: ");
 		veiculo = leitor.nextFloat();
 		
 		if (veiculo > via) {
@@ -25,9 +25,9 @@ public class DesafioMultaDeTransito {
 				multa = 50;
 			}
 			System.out.printf("Multa aplicada de R$ %,.2f%n", multa);
-			System.out.println("Motivo: Trafegar com velocidade superior à permitida.");
+			System.out.println("Motivo: Trafegar com velocidade superior a permitida.");
 		} else {
-			System.out.println("Motorista prodente!");
+			System.out.println("Motorista prudente!");
 		}
 		
 		leitor.close();

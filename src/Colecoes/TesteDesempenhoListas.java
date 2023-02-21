@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class TesteListas {
+public class TesteDesempenhoListas {
 
     public static void main(String[] args) {
 

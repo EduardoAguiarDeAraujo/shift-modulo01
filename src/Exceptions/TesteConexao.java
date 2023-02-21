@@ -10,7 +10,6 @@ public class TesteConexao {
 		} catch(Exception e) {
 			System.out.println("Deu erro de conexao: " + e.getMessage());
 		}
-
 		
 //		Conexao con = null;
 //		

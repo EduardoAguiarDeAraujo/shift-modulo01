@@ -3,7 +3,7 @@ package Colecoes;
 import java.util.ArrayList;
 import java.util.Collection;
 
-public class TestaPerformance {
+public class TesteDesempenhoArrayList {
 
     public static void main(String[] args) {
 

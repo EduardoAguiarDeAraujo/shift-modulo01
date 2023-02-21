@@ -3,7 +3,7 @@ package Colecoes;
 import java.util.HashSet;
 import java.util.Set;
 
-public class TestCollectionEqualsHashCode {
+public class TesteCollectionEqualsHashCode {
     public static void main(String[] args) {
 
         System.out.println("""

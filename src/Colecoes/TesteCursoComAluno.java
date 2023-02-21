@@ -1,6 +1,6 @@
 package Colecoes;
 
-public class TestaCursoComAluno {
+public class TesteCursoComAluno {
 
     public static void main(String[] args) {
 

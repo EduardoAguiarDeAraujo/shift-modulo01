@@ -3,7 +3,7 @@ package Colecoes;
 import java.util.ArrayList;
 import java.util.Comparator;
 
-public class TestaListaDeAula {
+public class TesteListaDeAula {
 
     public static void main(String[] args) {
 
