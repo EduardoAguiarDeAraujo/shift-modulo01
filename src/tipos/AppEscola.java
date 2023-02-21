@@ -1,3 +1,4 @@
+package Tipos;
 import java.util.Scanner;
 
 public class AppEscola {
